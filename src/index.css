@@ -5,3 +5,15 @@
 body {
   padding: 60px;
 }
+
+input {
+  font-size: 1.2rem;
+  width: 20%;
+  height: auto;
+  border: none;
+  border-bottom: 1px solid grey;
+  padding: 5px;
+}
+input:focus {
+  outline: none;
+}
