@@ -12,7 +12,7 @@ const GifExpertApp = () => {
   return (
     <div>
       <h2>GifExpertApp</h2>
-      <AddCategory />
+      <AddCategory categories={setCategorie} />
       <hr />
       <button type="button" onClick={handleAddCategorie}>Agregar</button>
       <ol>
