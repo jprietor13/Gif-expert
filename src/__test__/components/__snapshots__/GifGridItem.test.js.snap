@@ -4,7 +4,12 @@ exports[`Pruebas en GifGridItem Debe mostrar el componente 1`] = `
 <div
   className="card animate__backInDown"
 >
-  <img />
-  <p />
+  <img
+    alt="title categorie"
+    src="https://localhost:3000/title_categorie.jpg"
+  />
+  <p>
+    title categorie
+  </p>
 </div>
 `;
